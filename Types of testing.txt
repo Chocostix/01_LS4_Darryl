@@ -1,3 +1,5 @@
+Updated by Student B
+
 Unit testing is the execution of a complete class, routine or small program that has been written
 by a single programmer or team of programmers, which is tested in isolation from the more
 complete system.
@@ -18,4 +20,21 @@ integrated parts.
 
 Integration testing is usually done either by the developers or testers.
 
-integration testing is a type of black-box testing.
+Integration testing is a type of black-box testing.
+
+System testing is the execution of the software in its final configuration, including integration
+with other software and hardware systems. It tests for security, performance, resource loss,
+timing problems, and other issues that can’t be tested at lower levels of integration.
+
+System testing is usually done by the test engineers.
+
+System testing is a type of black-box testing.
+
+The acceptance testing plan is created during the design phase and the actual testing is done
+after the system is fully developed and tested. The goal of acceptance testing is to
+evaluate and validate that the system’s functionality meets
+the customer’s requirements, standards, and business needs before the final delivery.
+
+Acceptance testing is usually done by the users or customers.
+
+Acceptance testing is a type of white-box testing.
